@@ -1,2 +1,3 @@
 # my-code
-test
+python train.py
+python test.py
